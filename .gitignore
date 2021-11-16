@@ -1,0 +1,7 @@
+comments.json
+issues.json
+issue-importer/*json
+issue-importer/.classpath
+issue-importer/.project
+issue-importer/.settings/
+issue-importer/target/
