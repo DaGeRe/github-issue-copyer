@@ -5,3 +5,4 @@ issue-importer/.classpath
 issue-importer/.project
 issue-importer/.settings/
 issue-importer/target/
+issue-importer/dependency-reduced-pom.xml
